@@ -5,7 +5,7 @@ home lab environment to automate common Active
 Directory administration tasks.
 
 ## Lab Environment
-- Windows Server 2019 — Domain Controller
+- Windows Server 2019  Domain Controller
 - Windows 10 Workstation joined to LAB.local
 - VMware virtualization platform
 - Domain: LAB.local
